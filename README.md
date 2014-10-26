@@ -1,5 +1,5 @@
  Cleaning-Data-Project
- ==========================================
+ =====================
 
 
 The used for assignment represent data collected from the accelerometersfrom the Samsung Galaxy S smartphone. 
