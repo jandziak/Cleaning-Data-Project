@@ -2,9 +2,8 @@ Cleaning-Data-Project
 =====================
 
 
-<<<<<<< HEAD
 #The used for assignment represent data collected from the accelerometersfrom the Samsung Galaxy S smartphone. 
-#Description of the data availiable is in File README.md and at the site where the data was obtained: 
+#Description of the data is availiable at the site where the data was obtained: 
 #http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 On the beggining data has been loaded. 
